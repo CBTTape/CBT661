@@ -1,0 +1,15 @@
+2023-04-03 01:47:26.517424 - Initialized conversion of CBT661
+2023-04-03 01:47:26.605139 - Received CBT.V504.FILE661.PDS from FILE661.XMI 
+2023-04-03 01:47:26.607877 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE661.PDS, moved to PDS/$$$#DATE
+2023-04-03 01:47:26.608861 - Found $$README.txt (text/plain) in CBT.V504.FILE661.PDS, moved to PDS/$$README
+2023-04-03 01:47:26.610073 - Found $CLEAR.txt (text/plain) in CBT.V504.FILE661.PDS, moved to PDS/$CLEAR
+2023-04-03 01:47:26.611184 - Found $EX.txt (text/plain) in CBT.V504.FILE661.PDS, moved to PDS/$EX
+2023-04-03 01:47:26.612198 - Found @FILE661.txt (text/plain) in CBT.V504.FILE661.PDS, moved to PDS/@FILE661
+2023-04-03 01:47:26.613167 - Found ASMARDR.jcl (text/plain) in CBT.V504.FILE661.PDS, moved to PDS/ASMARDR
+2023-04-03 01:47:26.614061 - Found CONVERT.txt (text/plain) in CBT.V504.FILE661.PDS, moved to PDS/CONVERT
+2023-04-03 01:47:26.615238 - Found ESAENTRY.txt (text/plain) in CBT.V504.FILE661.PDS, moved to PDS/ESAENTRY
+2023-04-03 01:47:26.616289 - Found ESAEXIT.txt (text/plain) in CBT.V504.FILE661.PDS, moved to PDS/ESAEXIT
+2023-04-03 01:47:26.617345 - Found HOTRDR.txt (text/plain) in CBT.V504.FILE661.PDS, moved to PDS/HOTRDR
+2023-04-03 01:47:26.618369 - Found HOTRDR13.txt (text/plain) in CBT.V504.FILE661.PDS, moved to PDS/HOTRDR13
+2023-04-03 01:47:26.619357 - Found PARMS.txt (text/plain) in CBT.V504.FILE661.PDS, moved to PDS/PARMS
+2023-04-03 01:47:26.620403 - Found WTOL.txt (text/plain) in CBT.V504.FILE661.PDS, moved to PDS/WTOL
